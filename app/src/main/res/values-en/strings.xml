@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music band quiz</string>
+    <string name="pytanie">What is a name of this band?</string>
+    <string name="title">Quiz about music\nbands</string>
+    <string name="rozpocznij">Start</string>
+    <string name="zako_cz">End</string>
+    <string name="currentPlayer">Player: None</string>
+    <string name="wybierz_gracza">Choose player</string>
+    <string name="brak_graczy">There is no player</string>
+    <string name="dodaj_gracza">Add player</string>
+    <string name="imi">name</string>
+    <string name="dodaj">Add</string>
+    <string name="rekordy">Records</string>
+    <string name="zagraj_jeszce_raz">Play again</string>
+    <string name="uko_czone_quiz_z_wynikiem_0_10">You finished quiz with 0/10 score</string>
+    <string name="powr_t_na_stron_g_wn">Back to title screen</string>
+    <string name="wyj_cie">Exit</string>
+    <string name="punkty_n0_10">Points\n0/10</string>
+    <string name="odp2">ans2</string>
+    <string name="odp1">ans1</string>
+    <string name="zdjecie">picture</string>
+    <string name="nazwa">name</string>
+    <string name="_0">0</string>
+    <string name="userAlreadyExists">A user with that name already exists.</string>
+    <string name="userAdded">User added.</string>
+    <string name="giveAName">Please provide your name.</string>
+    <string name="points2">Points\n</string>
+    <string name="points10">/10</string>
+    <string name="before">Before starting the quiz, please select a player.</string>
+    <string name="player">Player: </string>
+    <string name="finish">Completed quiz with result </string>
+    <string name="deletedUser">Player removed.</string>
+    <string name="nonDeletedUser">Error while removing player.</string>
+</resources>

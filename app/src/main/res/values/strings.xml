@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quiz o zespołach muzycznych</string>
+    <string name="pytanie">Jak nazywa się ten zespół?</string>
+    <string name="title">Quiz o zespołach\nmuzycznych</string>
+    <string name="rozpocznij">Rozpocznij</string>
+    <string name="zako_cz">Zakończ</string>
+    <string name="currentPlayer">Gracz: Brak</string>
+    <string name="wybierz_gracza">Wybierz gracza</string>
+    <string name="brak_graczy">Brak graczy</string>
+    <string name="dodaj_gracza">Dodaj gracza</string>
+    <string name="imi">imię</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="rekordy">Rekordy</string>
+    <string name="zagraj_jeszce_raz">Zagraj jeszce raz</string>
+    <string name="uko_czone_quiz_z_wynikiem_0_10">Ukończone quiz z wynikiem 0/10</string>
+    <string name="powr_t_na_stron_g_wn">Powrót na stronę główną</string>
+    <string name="wyj_cie">Wyjście</string>
+    <string name="punkty_n0_10">Punkty\n0/10</string>
+    <string name="odp2">odp2</string>
+    <string name="odp1">odp1</string>
+    <string name="zdjecie">zdjecie</string>
+    <string name="nazwa">nazwa</string>
+    <string name="_0">0</string>
+    <string name="userAlreadyExists">Użytkownik o takiej nazwie już istnieje.</string>
+    <string name="userAdded">Dodano użytkownika.</string>
+    <string name="giveAName">Proszę podać imię.</string>
+    <string name="points2">Punkty\n</string>
+    <string name="points10">/10</string>
+    <string name="before">Przed rozpoczęciem quiz\'u proszę wybrać gracza.</string>
+    <string name="player">Gracz: </string>
+    <string name="finish">Ukończone quiz z wynikiem </string>
+    <string name="deletedUser">Gracz usunięty.</string>
+    <string name="nonDeletedUser">Błąd podczas usuwania gracza.</string>
+</resources>
